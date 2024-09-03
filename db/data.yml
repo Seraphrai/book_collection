@@ -1,0 +1,30 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2024-09-03 17:36:41.725113000 Z
+    - 2024-09-03 17:36:41.725113000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 2
+    - terset
+    - 2024-09-03 17:41:04.220401000 Z
+    - 2024-09-03 17:41:04.220401000 Z
+  - - 3
+    - Whale Wars
+    - 2024-09-03 17:41:14.787069000 Z
+    - 2024-09-03 17:41:14.787069000 Z
